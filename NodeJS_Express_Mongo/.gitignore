@@ -129,5 +129,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Ignorar claves privadas y otros archivos SSL
-ssl/*.pem
